@@ -52,6 +52,11 @@ git checkout dreamhack
 }
 ```
 
+7) Install dependencies
+
+```
+npm install
+```
 
 7) Start the app
 
