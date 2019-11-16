@@ -20,17 +20,7 @@ cd watson-twitch-tone-analysis
 git checkout dreamhack
 ```
 
-3) Create dir `secrets` and file `config.json`
-
-4) Get a twitch chat api key: https://twitchapps.com/tmi/
-
-5) Get watson tone password from "Credentials" above: https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
-
-6) Fill out content in `config.json`
-
-* Note for the Watson section: Credentials are pulled from the Credentials section above
-* Note for the Twitch section: usernames is your 
-* Note for the Twtich Channels section: leave this as-is, we'll set up channels later
+3) Create dir `secrets` and file `config.json` inside . Put the following text in `config.json`
 
 ```
 {
@@ -51,6 +41,18 @@ git checkout dreamhack
 
 }
 ```
+
+
+4) Get a twitch chat api key: https://twitchapps.com/tmi/
+
+5) Get watson tone password from "Credentials" above: https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
+
+6) Fill out content in `config.json`
+
+* Note for the Watson section: Credentials are pulled from the Credentials section above
+* Note for the Twitch section: usernames is your 
+* Note for the Twtich Channels section: leave this as-is, we'll set up channels later
+
 
 7) Install dependencies
 
