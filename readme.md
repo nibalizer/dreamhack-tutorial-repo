@@ -58,7 +58,7 @@ git checkout dreamhack
 npm install
 ```
 
-7) Start the app
+8) Start the app
 
 
 ```
@@ -66,7 +66,7 @@ npm start
 ```
 
 
-8) Poke
+9) Poke
 
 http://localhost:3000
 http://localhost:3000/anger
