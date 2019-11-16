@@ -81,7 +81,7 @@ http://localhost:3000/anger
 3) Setup cf
 
 ```
-ibmcloud target
+ibmcloud target --cf
 ```
 
 4) Create an app definiton file `manifest.yml`
