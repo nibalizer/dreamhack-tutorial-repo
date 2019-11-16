@@ -1,20 +1,10 @@
 # Extend your Livestream with Open Source 
 
-
-
-* https://github.com/nibalizer/Twitch-Picks-CSGO
-* https://github.com/nibalizer/obs-scripts-examples/blob/master/chat-votes-camera.py
-* https://github.com/nibalizer/obs-scripts-examples/blob/master/sc2client.py
-
+You can follow along with these instructions. The workshop leader will demonstrate for you. You can put your hand up and a TA will help you with your issue.
 
 Credentials - https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
 
-References - https://spencerkrum.com/posts/open_source_streaming_references/
-
-
-
 Steps:
-
 
 
 1) clone the example app:  
@@ -38,6 +28,9 @@ git checkout dreamhack
 
 6) Fill out content in `config.json`
 
+* Note for the Watson section: Credentials are pulled from the Credentials section above
+* Note for the Twitch section: usernames is your 
+* Note for the Twtich Channels section: leave this as-is, we'll set up channels later
 
 ```
 {
@@ -115,3 +108,13 @@ ibmcloud cf push
 ```
 
 8) Right now you're using my Watson Tone Analysis service. Go to ibmcloud.com, create your own watson service, and start using that in the app.
+
+
+* https://github.com/nibalizer/Twitch-Picks-CSGO
+* https://github.com/nibalizer/obs-scripts-examples/blob/master/chat-votes-camera.py
+* https://github.com/nibalizer/obs-scripts-examples/blob/master/sc2client.py
+
+
+Credentials - https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
+
+References - https://spencerkrum.com/posts/open_source_streaming_references/
