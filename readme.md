@@ -20,7 +20,7 @@ Steps:
 1) clone the example app:  
 
 ```
-git clone http://shared-nibz.us-south.containers.appdomain.cloud/watson-twitch-tone-analysis/
+git clone https://github.com/ibm-dev/watson-twitch-tone-analysis
 ```
 
 2) Check out the correct branch `dreamhack`
