@@ -2,7 +2,7 @@
 
 You can follow along with these instructions. The workshop leader will demonstrate for you. You can put your hand up and a TA will help you with your issue.
 
-Credentials - https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
+Credentials - https://gist.github.com/nibalizer/404notfound
 
 Steps:
 
@@ -45,7 +45,7 @@ git checkout dreamhack
 
 4) Get a twitch chat api key: https://twitchapps.com/tmi/
 
-5) Get watson tone password from "Credentials" above: https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
+5) Get watson tone password from "Credentials" above: https://gist.github.com/nibalizer/404notfound
 
 6) Fill out content in `config.json`
 
@@ -122,6 +122,6 @@ ibmcloud cf push
 * https://github.com/nibalizer/obs-scripts-examples/blob/master/sc2client.py
 
 
-Credentials - https://gist.github.com/nibalizer/4b3c1e705a020166c7ec3202eccae7f4
+Credentials - https://gist.github.com/nibalizer/404notfound
 
 References - https://spencerkrum.com/posts/open_source_streaming_references/
